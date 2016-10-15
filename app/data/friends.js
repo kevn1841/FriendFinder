@@ -16,8 +16,8 @@ var friends = [
       ]
    },
    {
-      "name":"",
-      "photo":"https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+      "name":"Jim Lahey",
+      "photo":"https://pbs.twimg.com/profile_images/870937361/trailer-park-boys_mr-lahey_400x400.jpg",
       "scores":[
          "4",
          "2",
